@@ -5,11 +5,10 @@ metadata:
 spec:
   replicas: 2
   selector:
-    matchlabels:
+    matchLabels:
       app: spring-app
   template:
     metadata:
-      name: spring-boot-project
       labels:
         app: spring-app
     spec:
