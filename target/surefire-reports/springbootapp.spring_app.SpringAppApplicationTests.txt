@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: springbootapp.spring_app.SpringAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.256 s -- in springbootapp.spring_app.SpringAppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.260 s -- in springbootapp.spring_app.SpringAppApplicationTests

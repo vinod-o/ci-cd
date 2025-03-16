@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: sprind-boot-containers
-          image: vinodo3735/newbuild:14
+          image: vinodo3735/newbuild:15
           ports:
             - containerPort: 8080
