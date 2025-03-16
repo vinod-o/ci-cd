@@ -13,7 +13,7 @@ spec:
         app: spring-app
     spec:
       containers:
-        - name: sprind-boot containers
+        - name: sprind-boot-containers
           image: vinodo3735/newbuild:v1
           ports:
             - containerPort: 8080
