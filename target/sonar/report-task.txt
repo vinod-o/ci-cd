@@ -2,5 +2,5 @@ projectKey=springbootapp:spring-app
 serverUrl=http://18.204.228.13:9000
 serverVersion=25.3.0.104237
 dashboardUrl=http://18.204.228.13:9000/dashboard?id=springbootapp%3Aspring-app
-ceTaskId=eb4d1cfe-0a63-4b7b-9ed4-13f26c4fcfe6
-ceTaskUrl=http://18.204.228.13:9000/api/ce/task?id=eb4d1cfe-0a63-4b7b-9ed4-13f26c4fcfe6
+ceTaskId=bf6a1b7e-fe39-44a2-be64-a3568dd380e9
+ceTaskUrl=http://18.204.228.13:9000/api/ce/task?id=bf6a1b7e-fe39-44a2-be64-a3568dd380e9
